@@ -57,3 +57,5 @@ function playRound(playerSelection, computerSelection) {
 
 
 console.log(playRound(playerSelection, computerSelection));
+
+// computer is working correctly it seems. playerSelection is randomizing and never choosing scissors ( it must be a bloolean value )
